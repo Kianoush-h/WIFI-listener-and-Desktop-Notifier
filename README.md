@@ -38,8 +38,8 @@ You need dependencies below.
 Clone the repo and install 3rd-party libraries.
 
 ```bash
-$ git clone https://github.com/Kianoush-h/Wifi-Devices.git
-$ cd WIFI
+$ git clone https://github.com/Kianoush-h/WIFI-listener-and-Desktop-Notifier.git
+$ cd WIFI-listener-and-Desktop-Notifier
 $ pip3 install -r requirements.txt
 ```
 
@@ -53,10 +53,10 @@ python3 Weather.py
 ```
 After you run the mentioned code, you will see a desktop notification on your screen which is something like this:
 
-![weather notification](./etc/notif.JPG)
+![wifi](./etc/pic2.JPG)
 
 
- This notification apeas each 15 minutes which you can change it to your preferences.
+ This notification appears each 15 minutes which you can change it to your preferences.
  
  
  
