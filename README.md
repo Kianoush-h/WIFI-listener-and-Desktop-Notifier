@@ -1,13 +1,22 @@
 # WIFI Desktop Notification
 This project will show you how to list all users connected to your wifi network using Python 3.
 
-If you use wireless internet at home, you probably have several devices connected to your network. It’s so easy to keep piling on additional devices, too: your new laptop, another video game console, a new tablet or even your friend’s phone.
+
+
+If you use wireless internet at home, you probably have several devices connected to your network. It’s so easy to keep piling on additional devices, too: your new laptop, another video game console, a new tablet, or even your friend’s phone.
+
+
 
 However, with your Wi-Fi network being so ubiquitous, you may begin to lose track of everything that’s connected, or worse, notice things that don’t belong. There may even be users who have tried to connect to your Wi-Fi network without your permission or knowledge
 
-You can use this project to get notified when a specifi person (or persons) has arrived home/work.
 
-After you run the code, you get desktop notification every 15 min(your choice).
+
+ You can use this project to get notified when a specific person (or persons) has arrived home/work.
+
+
+
+
+
  
  
  
@@ -144,4 +153,4 @@ while now < old + delay:
  
  # Future 
  You can use this project to get notified when a specifi person (or persons) has arrived home/work.
- For example, when your firend gets to your door you get a notification on your Telegram or on your phone via sms.
+ For example, when your friend gets to your door you get a notification on your Telegram or on your phone via SMS.
