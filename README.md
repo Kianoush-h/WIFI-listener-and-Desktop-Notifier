@@ -154,3 +154,23 @@ while now < old + delay:
  # Future 
  You can use this project to get notified when a specifi person (or persons) has arrived home/work.
  For example, when your friend gets to your door you get a notification on your Telegram or on your phone via SMS.
+
+
+
+
+# Contact Me
+
+Email: haratiank2@gmail.com
+
+YouTube channel: https://www.youtube.com/channel/UCvf9_53f6n3YjNEA4NxAkJA?view_as=subscriber
+GitHub: https://github.com/Kianoush-h
+LinkedIn: https://www.linkedin.com/in/kianoush-haratiannejadi/
+
+
+
+
+
+
+
+
+
