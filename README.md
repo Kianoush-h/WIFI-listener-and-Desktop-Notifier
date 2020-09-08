@@ -25,7 +25,7 @@ However, with your Wi-Fi network being so ubiquitous, you may begin to lose trac
 
 ### Dependencies
 
-You need dependencies below.
+You need the following dependencies:
 
 - python3
 - pyowm
@@ -163,7 +163,9 @@ while now < old + delay:
 Email: haratiank2@gmail.com
 
 YouTube channel: https://www.youtube.com/channel/UCvf9_53f6n3YjNEA4NxAkJA?view_as=subscriber
+
 GitHub: https://github.com/Kianoush-h
+
 LinkedIn: https://www.linkedin.com/in/kianoush-haratiannejadi/
 
 
