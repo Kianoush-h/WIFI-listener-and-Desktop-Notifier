@@ -1,4 +1,4 @@
-# WIFI Desktop Notification
+# WiFi Desktop Notification
 This project will show you how to list all users connected to your wifi network using Python 3.
 
 
@@ -7,7 +7,7 @@ If you use wireless internet at home, you probably have several devices connecte
 
 
 
-However, with your Wi-Fi network being so ubiquitous, you may begin to lose track of everything that’s connected, or worse, notice things that don’t belong. There may even be users who have tried to connect to your Wi-Fi network without your permission or knowledge
+However, with your WiFi network being so ubiquitous, you may begin to lose track of everything that’s connected, or worse, notice things that don’t belong. There may even be users who have tried to connect to your Wi-Fi network without your permission or knowledge.
 
 
 
